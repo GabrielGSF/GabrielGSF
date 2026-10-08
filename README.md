@@ -4,7 +4,7 @@
 ---
 
 # Minhas Redes
-[![LinkedIn](https://i.sstatic.net/gVE0j.png)](www.linkedin.com/in/gabrielgsf)
+[![LinkedIn](https://i.sstatic.net/gVE0j.png)](www.linkedin.com/in/gabrielgsf) GabrielGSF
 
 # Conhecimentos
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
